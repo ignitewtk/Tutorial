@@ -60,6 +60,7 @@ Please follow the document of W3Schools, try to understand the concepts.
 Use their online editor to practice the concepts you just learn.
 
 
+
 #### Reference material
 
 The official documentation for Python:
@@ -76,6 +77,7 @@ https://leetcode.com/problemset/all/
 
 A popular software for Python environment and dependency management:
 https://www.anaconda.com/
+
 
 #### Next tutorial 
 
