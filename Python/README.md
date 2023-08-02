@@ -7,25 +7,27 @@
 ### Concepts
 
 1. What can you do with Python
-  - Create scripts to automate tasks for you. (e.g. move your documents to another folder, change the names of your files)
-  - Develop web applications
-  - Manage your budget table sheets (Excel, etc.) in batch and create a summary for analysis
-  - Create AI models
+    - Create scripts to automate tasks for you. (e.g. move your documents to another folder, change the names of your files)
+    - Develop web applications
+    - Manage your budget table sheets (Excel, etc.) in batch and create a summary for analysis
+    - Create AI models
 2. Common program structure of a Python
+
+   Usually a Python script has a name 'YourFile.py' with a filename extension ``.py``.
+   Generally we execute the Python script by a command below in terminal or Command Line
+   ``` Python demo.py```
      - entry of a program
      - output of a program
-3. How to run a Python program
+4. How to run a Python program
    - Intepreter
    - Virtual environment on your own device (Anaconda, etc.)
    - Online Editor (Google Colab, etc.)
    
-4. Data Types in Python
-5. 
+5. Data Types in Python
+6. 
 
 
-```
-Python demo.py
-```
+
 
 ### Assignments
 Please follow the document of W3Schools, try to understand the concepts.
