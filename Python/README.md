@@ -12,8 +12,8 @@
   - Manage your budget table sheets (Excel, etc.) in batch and create a summary for analysis
   - Create AI models
 2. Common program structure of a Python
-   - entry of a program
-   - output of a program
+     - entry of a program
+     - output of a program
 3. How to run a Python program
    - Intepreter
    - Virtual environment on your own device (Anaconda, etc.)
