@@ -62,17 +62,24 @@ Use their online editor to practice the concepts you just learn.
 
 #### Reference material
 
+The official documentation for Python:
 https://docs.python.org/3/tutorial/index.html
 
+A popular tutorial website for programmer:
 https://www.w3schools.com/python/
 
+A popular online editor for programming:
 https://colab.google/
 
+The most popular online programming test website:
 https://leetcode.com/problemset/all/
 
+A popular software for Python environment and dependency management:
 https://www.anaconda.com/
 
-#### Next tutorial
+#### Next tutorial 
+
+(may change depending on progress)
 
 - Operators
 - Data structures
