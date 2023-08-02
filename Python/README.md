@@ -2,6 +2,23 @@
 
 ## Syllabus
 
+- Basic concepts
+  - Operating system basic
+  - First program: display a piece of text in terminal.
+  - Data types
+  - Operators & mathematics
+  - Basic data structures (list, tuples, set, dictionary)
+  - Logic statement (condition, loop)
+  - Functions
+- Object-oriented programming
+  - Object & Class
+- Advanced concepts
+    - Encapsulation
+    - Inheritance
+    - Polymorphism
+
+  
+## Tutorial Notes
 ### 02/08/2023
 
 #### Concepts
@@ -11,34 +28,33 @@
     - Develop web applications
     - Manage your budget table sheets (Excel, etc.) in batch and create a summary for analysis
     - Create AI models
-2. Common program structure of a Python
-
 
    
-4. How to run a Python program
+2. How to run a Python program
 
    Usually a Python script has a name, for example, 'demo.py' with a filename extension ``.py``.
    
    Generally we execute the Python script by a command below in terminal or Command Line
-   ``` Python demo.py```
+   ```Python demo.py```
    
-   The ``Python`` in command tells the device to run the script using a Python intepreter.
+   The ``Python`` in the command tells the device to run the script using a Python intepreter.
 
    What you write in it will directly execute once you run this command.
 
    Also, you can use an online editor where a thrid-party (Google Colab, etc.) provides for you and most of the time you don't worry about the environment, and it is convenient for beginner.
    
-6. How to manage you environment
+3. How to manage you environment
    
    Mac OS system has its built-in Python intepreter, which means you can directly develop Python scripts.
 
    However, a ``Virtual environment`` (Anaconda, etc.) is suggested on your own device to prevent you break your system in cases.
    
-7. Data Types in Python
+4. Data Types in Python
 
 
 
 #### Assignments
+
 Please follow the document of W3Schools, try to understand the concepts.
 
 Use their online editor to practice the concepts you just learn.
