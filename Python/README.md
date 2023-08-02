@@ -13,19 +13,25 @@
     - Create AI models
 2. Common program structure of a Python
 
-   Usually a Python script has a name 'YourFile.py' with a filename extension ``.py``.
+
+   
+4. How to run a Python program
+
+   Usually a Python script has a name, for example, 'demo.py' with a filename extension ``.py``.
+   
    Generally we execute the Python script by a command below in terminal or Command Line
    ``` Python demo.py```
-     - entry of a program
-     - output of a program
-4. How to run a Python program
-   - Intepreter
-   - Virtual environment on your own device (Anaconda, etc.)
-   - Online Editor (Google Colab, etc.)
    
-5. Data Types in Python
-6. 
+   The ``Python`` in command tells the device to run the script using a Python intepreter.
 
+   What you write in it will directly execute once you run this command.
+
+   Also, you can use an online editor where a thrid-party (Google Colab, etc.) provides for you and most of the time you don't worry about the environment, and it is convenient for beginner.
+   
+6. How to manage you environment
+    Mac OS system has its built-in Python intepreter, which means you can directly develop Python scripts. However, a ``Virtual environment`` (Anaconda, etc.) is suggested on your own device to prevent you break your system in cases.
+   
+8. Data Types in Python
 
 
 
