@@ -2,9 +2,9 @@
 
 ## Syllabus
 
-- ``Classic CMS Layout`` first lesson
+### 02/08/2023
 
-### Concepts
+#### Concepts
 
 1. What can you do with Python
     - Create scripts to automate tasks for you. (e.g. move your documents to another folder, change the names of your files)
@@ -29,18 +29,22 @@
    Also, you can use an online editor where a thrid-party (Google Colab, etc.) provides for you and most of the time you don't worry about the environment, and it is convenient for beginner.
    
 6. How to manage you environment
-    Mac OS system has its built-in Python intepreter, which means you can directly develop Python scripts. However, a ``Virtual environment`` (Anaconda, etc.) is suggested on your own device to prevent you break your system in cases.
    
-8. Data Types in Python
+   Mac OS system has its built-in Python intepreter, which means you can directly develop Python scripts.
+
+   However, a ``Virtual environment`` (Anaconda, etc.) is suggested on your own device to prevent you break your system in cases.
+   
+7. Data Types in Python
 
 
 
-### Assignments
+#### Assignments
 Please follow the document of W3Schools, try to understand the concepts.
+
 Use their online editor to practice the concepts you just learn.
 
 
-### Reference material
+#### Reference material
 
 https://docs.python.org/3/tutorial/index.html
 
@@ -52,7 +56,7 @@ https://leetcode.com/problemset/all/
 
 https://www.anaconda.com/
 
-### Next tutorial
+#### Next tutorial
 
 - Operators
 - Data structures
